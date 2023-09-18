@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uj151133&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **uj151133/uj151133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
